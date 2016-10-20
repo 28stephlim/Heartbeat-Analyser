@@ -32,7 +32,7 @@ under ECSE Department of Monash University Australia. (2016)
  - Audio recording functions are sourced from MoZhouqi (https://github.com/MoZhouqi/VoiceMemos)
  - Audio fingerprinting library are sourced from Laurin Brandner (https://github.com/lbrndnr/LBAudioDetective)
 
-## Licenses Disclaimer
+## Licenses 
 VoiceMemos is released under the MIT license. See LICENSE for details.
 LBAudioDetective is licensed under the MIT License.
 
